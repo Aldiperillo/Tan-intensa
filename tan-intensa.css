@@ -1,75 +1,78 @@
-.clase1 { 
-    width:100%; 
-    height:250px;
-    color: rgb(122, 3, 122);
+.clase1 {
+    width:100%;
+    height:300px;
+    color: black;
     background: rgb(217, 217, 217);
     font-weight: bold;
     text-align: center;
     border: 5px solid white;
-    font-size: 18px;
-
+    font-size: 23px;
+    
 }
 
 .clase1b {
-    width: 60%;
-    height: 70px;
+    width:40%;
+    height:40px;
     color: black;
-    background: white;
+    background: rgb(153, 152, 152);
     font-weight: bold;
     text-align: center;
-    font-size: 16px;
-    margin: auto;
-
+    margin: auto
 }
-
+ 
 .clase2 {
-    width: 100%;
-    height: 100px;
-    color: black;
-    background:rgb(217, 217, 217);
-    font-weight: bold;
-    text-align: center;
-    font-size: 16px;
-    border: 5px solid white;
-
-}
-
-.clase3 {
-    width: 30%;
-    height: 200px;
-    color: black;
-    background:rgb(217, 217, 217);
-    font-weight: bold;
-    text-align: center;
-    font-size: 16px;
-    border: 5px solid white;
-    float: left;
-
-}
-
-.clase4 {
-    width: 68%;
-    height: 200px;
-    color: black;
-    background:rgb(217, 217, 217);
-    font-weight: bold;
-    float: left;
-    text-align: center;
-    font-size: 16px;
-    border: 5px solid white;
-    margin: auto;
-
-}
-
-.clase5 {
-    width:100%; 
+    width:100%;
     height:100px;
     color: black;
     background: rgb(217, 217, 217);
     font-weight: bold;
     text-align: center;
     border: 5px solid white;
-    font-size: 18px;
+    font-size: 23px
+}
+ 
+.clase3 {
+    width:47%;
+    height:170px;
+    color: black;
     float: left;
+    background: rgb(217, 217, 217);
+    font-weight: bold;
+    text-align: left;
+    border: 5px solid white;
+    font-size: 20px
 
+}
+ 
+.clase4 {
+    width:51%;
+    height:170px;
+    color: black;
+    float: right;
+    background: rgb(217, 217, 217);
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid white;
+    font-size: 15px;
+    
+}
+ 
+.clase5 {
+    width:100%;
+    height:30px;
+    color: black;
+    background: rgb(217, 217, 217);
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    border: 5px solid white;
+    font-size: 23px
+}
+
+.foto {
+    width:300;
+    height:20px;
+    background: rgb(217, 217, 217);
+    text-align: center;
+    float: left;
 }
